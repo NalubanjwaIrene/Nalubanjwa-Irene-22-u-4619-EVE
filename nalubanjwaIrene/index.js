@@ -15,11 +15,3 @@ function loginCredentials(inputEmail, inputPassword){
 loginCredentials(userEmail, userPassword)
 
 
-// function loginCredentials(Email,Password){
-//     console.log(`Useremail is, ${Email} Password is ${Password}`);
-//     let item1 = "yourStudentName@gmail.com"
-//     let item2 = "yourRegistrationNumber@2024"
-   
-// }
-// loginCredentials(' yourStudentName@gmail.com','yourRegistrationNumber@2024');
-// //  loginCredentials(' yourRegistrationNumber@2024',);
